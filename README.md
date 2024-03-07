@@ -45,7 +45,7 @@ Contribuição 🤝
 Estamos abertos a contribuições de todos os níveis de habilidade! Se você tem conhecimentos em SQL ou deseja compartilhar suas experiências práticas, sinta-se à vontade para contribuir com este repositório. Adicione exemplos, exercícios, insights ou qualquer outro recurso que possa enriquecer a jornada de aprendizado de todos.
 
 Licença 📜
-Este repositório está licenciado sob a Licença MIT, o que significa que você pode usar o conteúdo aqui presente para fins educacionais e comerciais.
+Este repositório está licenciado sob a Licença MIT, o que significa que você pode usar o conteúdo aqui presente para fins educacionais
 
 Recursos Adicionais 📚
 Além deste repositório, recomendamos os seguintes recursos para expandir seus conhecimentos em SQL:
@@ -54,6 +54,7 @@ W3Schools SQL Tutorial
 SQLZoo
 Mode Analytics SQL Tutorial
 Coursera - SQL for Data Science
+Comunidade ds 
 Prepare-se para uma jornada emocionante rumo à maestria em SQL com o Projeto Olist! Vamos começar a codificar! 💻✨
 
 
